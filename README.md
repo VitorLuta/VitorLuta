@@ -3,7 +3,7 @@
 
 Me chamo Vitor Luiz Luta Fernandes, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unip.
 
- 
+  <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         />
     </a> 
     <a href="https://github.com/VitorLuta?tab=repositories&sort=stargazers">
@@ -42,12 +42,6 @@ Me chamo Vitor Luiz Luta Fernandes, tenho 20 anos e sou natural de São Paulo. A
 
 
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
 

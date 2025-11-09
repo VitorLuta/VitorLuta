@@ -3,7 +3,7 @@
 
 Me chamo Vitor Luiz Luta Fernandes, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unip.
 
- src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+ 
         />
     </a> 
     <a href="https://github.com/VitorLuta?tab=repositories&sort=stargazers">
@@ -26,9 +26,6 @@ Me chamo Vitor Luiz Luta Fernandes, tenho 20 anos e sou natural de São Paulo. A
 
 ### 🤖 Linguagens e Tecnologias
 
-
-
-
 <img 
     align="left" 
     alt="Python" 
@@ -43,14 +40,7 @@ Me chamo Vitor Luiz Luta Fernandes, tenho 20 anos e sou natural de São Paulo. A
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+
 
 <img 
       align="left" 
